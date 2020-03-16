@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aisuweoch.uzor.codes/sitemap.xml
